@@ -3,8 +3,10 @@ package foo
 import "fmt"
 
 //在  v1.0.0 版本有效
+//在  v1.3.0 版本fix
 func Foo()  {
 	fmt.Println("foo foo foo ...")
+	fmt.Println("fixed ...")
 }
 
 //在 v1.1.0 版本有效
