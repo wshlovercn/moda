@@ -6,4 +6,6 @@ func main()  {
 	foo.Foo()
 
 	foo.Foo1()
+
+	foo.Foo2()
 }
