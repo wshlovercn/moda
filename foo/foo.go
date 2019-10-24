@@ -11,3 +11,8 @@ func Foo()  {
 func Foo1()  {
 	fmt.Println("foo1 foo1 foo1 ...")
 }
+
+//在 v1.2.0 版本有效
+func Foo2()  {
+	fmt.Println("foo2 foo2 foo2 ...")
+}
